@@ -1,0 +1,60 @@
+{
+ "counting_from": "2026-11-13",
+ "latest_snapshot": "2026-11-15",
+ "nations": 774,
+ "levels": [
+  "Copper",
+  "Bronze",
+  "Silver",
+  "Gold",
+  "Platinum",
+  "Titanium"
+ ],
+ "measures": {
+  "click": {
+   "measures": "peak endorsements given",
+   "thresholds": [
+    1,
+    200,
+    400,
+    600,
+    800,
+    1000
+   ]
+  },
+  "clout": {
+   "measures": "endorsements given, summed over days",
+   "thresholds": [
+    1000,
+    100000,
+    200000,
+    300000,
+    400000,
+    500000
+   ]
+  },
+  "keeper": {
+   "measures": "days as a Keeper",
+   "thresholds": [
+    1,
+    30,
+    90,
+    180,
+    270,
+    360
+   ]
+  },
+  "wa": {
+   "measures": "days as a WA member of the region",
+   "thresholds": [
+    1,
+    30,
+    90,
+    180,
+    270,
+    360
+   ]
+  }
+ },
+ "note": "Vote achievements start with Volume 2. Officeholders are excluded."
+}
